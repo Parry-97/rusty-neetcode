@@ -50,8 +50,7 @@ impl Solution {
     }
 
     /// Improved solution that traverses the matrix only once.
-    ///
-    /// > Recommended approach by NeetCode
+    /// Recommended approach by NeetCode
     pub fn is_valid_sudoku(board: Vec<Vec<char>>) -> bool {
         let mut rows: HashMap<usize, HashSet<char>> = HashMap::default();
         let mut cols: HashMap<usize, HashSet<char>> = HashMap::default();
