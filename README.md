@@ -17,7 +17,7 @@ provided by NeetCode.
 
 > [!WARNING]
 > I am updating the list as I am solving the problems, hence may not be complete
-> as right now. It is also possible you might not find some easy problems.
+> right now. It is also possible you might not find some easy problems.
 
 - [x] **Arrays & Hashing**
   - [x] [Two Sum](https://neetcode.io/problems/two-integer-sum)
@@ -28,7 +28,7 @@ provided by NeetCode.
   - [x] [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
   
 - [-] **Two Pointers**
-  - [-] [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii)
-  - [] 3Sum
+  - [x] [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii)
+  - [-] [3Sum](https://neetcode.io/problems/three-integer-sum)
   - [] Container With Most Water
   - [] Trapping Rain Water
