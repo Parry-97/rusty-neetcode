@@ -36,7 +36,7 @@ impl Solution {
     //list like I do in my attempt, possibly reducing the set
     //of input values in nums and avoiding the time limit error due to duplicates.
     //Furthemore, the conditional statement in the outer loop helps us detect the
-    //start of each sequence.
+    //start of each sequence. We then check for the subsequent values in the sequence.
     pub fn longest_consecutive(nums: Vec<i32>) -> i32 {
         let mut max_len = 1;
         if nums.is_empty() {
