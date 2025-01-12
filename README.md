@@ -1,4 +1,4 @@
-# Rusty LeetCode
+# Rusty NeetCode
 
 This is a collection of LeetCode problems that I have attempted to solve during my
 ongoing journey to proficiency in DSA and Rust.
@@ -15,16 +15,20 @@ provided by NeetCode.
 
 ## NeetCode Roadmap
 
+> [!WARNING]
+> I am updating the list as I am solving the problems, hence may not be complete
+> as right now. It is also possible you might not find some easy problems.
+
 - [x] **Arrays & Hashing**
-  - [x] Two Sum
-  - [x] Group Anagrams
-  - [x] Encode and Decode String
-  - [x] Product of Array Except Self
-  - [x] Valid_sudoku
-  - [x] Longest Consecutive Sequence
+  - [x] [Two Sum](https://neetcode.io/problems/two-integer-sum)
+  - [x] [Group Anagrams](https://neetcode.io/problems/anagram-groups)
+  - [x] [Encode and Decode String](https://neetcode.io/problems/string-encode-and-decode)
+  - [x] [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self)
+  - [x] [Valid_sudoku](https://neetcode.io/problems/valid-sudoku)
+  - [x] [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
   
 - [-] **Two Pointers**
-  - [-] Two Sum II Input Array Is Sorted
+  - [-] [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii)
   - [] 3Sum
   - [] Container With Most Water
   - [] Trapping Rain Water
