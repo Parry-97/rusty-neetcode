@@ -29,6 +29,6 @@ provided by NeetCode.
   
 - [-] **Two Pointers**
   - [x] [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii)
-  - [-] [3Sum](https://neetcode.io/problems/three-integer-sum)
-  - [] Container With Most Water
+  - [x] [3Sum](https://neetcode.io/problems/three-integer-sum)
+  - [-] Container With Most Water
   - [] Trapping Rain Water
