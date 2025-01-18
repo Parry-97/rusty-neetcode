@@ -3,7 +3,7 @@
 This is a collection of LeetCode problems that I have attempted to solve during my
 ongoing journey to proficiency in DSA and Rust.
 I wanted to improve on DSA and Rust at the same time, hence this repo where I "log"
-my submissions in the hope to also help some other fellow rustacean trying to grasp
+my submissions in the hope to also help some other fellow *Rustacean* trying to grasp
 with the two.
 
 Below you can find a list of problems that have been currently solved.
@@ -27,8 +27,11 @@ provided by NeetCode.
   - [x] [Valid_sudoku](https://neetcode.io/problems/valid-sudoku)
   - [x] [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
   
-- [-] **Two Pointers**
+- [x] **Two Pointers**
   - [x] [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii)
   - [x] [3Sum](https://neetcode.io/problems/three-integer-sum)
   - [x] [Container With Most Water](https://neetcode.io/problems/max-water-container)
-  - [-] Trapping Rain Water
+  - [x] [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water)
+
+- [-] **Stacks**
+  - [x] [Min Stack](https://neetcode.io/problems/minimum-stack)
