@@ -35,3 +35,4 @@ provided by NeetCode.
 
 - [-] **Stacks**
   - [x] [Min Stack](https://neetcode.io/problems/minimum-stack)
+  - [x] [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation)
