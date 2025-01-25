@@ -33,6 +33,7 @@ provided by NeetCode.
   - [x] [Container With Most Water](https://neetcode.io/problems/max-water-container)
   - [x] [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water)
 
-- [-] **Stacks**
+- [ ] **Stacks**
   - [x] [Min Stack](https://neetcode.io/problems/minimum-stack)
   - [x] [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation)
+  - [x] [Generate Parenthesis](https://neetcode.io/problems/generate-parentheses)
