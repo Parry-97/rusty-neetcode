@@ -37,3 +37,4 @@ provided by NeetCode.
   - [x] [Min Stack](https://neetcode.io/problems/minimum-stack)
   - [x] [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation)
   - [x] [Generate Parenthesis](https://neetcode.io/problems/generate-parentheses)
+  - [x] [Daily Temperatures](https://neetcode.io/problems/daily-temperatures)
