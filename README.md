@@ -3,7 +3,7 @@
 This is a collection of LeetCode problems that I have attempted to solve during my
 ongoing journey to proficiency in DSA and Rust.
 I wanted to improve on DSA and Rust at the same time, hence this repo where I "log"
-my submissions in the hope to also help some other fellow *Rustacean* trying to grasp
+my submissions in the hope to also help some other fellow _Rustacean_ trying to grasp
 with the two.
 
 Below you can find a list of problems that have been currently solved.
@@ -26,8 +26,8 @@ provided by NeetCode.
   - [x] [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self)
   - [x] [Valid_sudoku](https://neetcode.io/problems/valid-sudoku)
   - [x] [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
-  
 - [x] **Two Pointers**
+
   - [x] [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii)
   - [x] [3Sum](https://neetcode.io/problems/three-integer-sum)
   - [x] [Container With Most Water](https://neetcode.io/problems/max-water-container)
@@ -38,3 +38,4 @@ provided by NeetCode.
   - [x] [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation)
   - [x] [Generate Parenthesis](https://neetcode.io/problems/generate-parentheses)
   - [x] [Daily Temperatures](https://neetcode.io/problems/daily-temperatures)
+  - [x] [Car Fleet](https://neetcode.io/problems/car-fleet)

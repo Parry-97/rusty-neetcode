@@ -1,3 +1,4 @@
+pub mod car_fleet;
 pub mod daily_temperatures;
 pub mod generate_parenthesis;
 pub mod min_stack;
